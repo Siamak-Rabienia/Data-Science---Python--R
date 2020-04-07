@@ -1,4 +1,4 @@
-# Question: Coins with values 1 through N (inclusive) are placed into a bag.
+# Question:  Coins with values 1 through N (inclusive) are placed into a bag.
 # All the coins from the bag are iteratively drawn (without replacement) at 
 # random. For the first coin, you are paid the value of the coin. 
 # For subsequent coins, you are paid the absolute difference between 
